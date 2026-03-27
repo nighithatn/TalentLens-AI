@@ -35,6 +35,19 @@ TalentLens AI is an intelligent recruitment system that automates resume screeni
 
 Resume (PDF) → Text Extraction → Text Chunking → Embeddings → Cosine Similarity → RAG → LLM → Final Output (Match Score + ATS Score + Analysis)
 
+## Screenshots
+
+Streamlit UI  
+![Streamlit](Screenshots/streamlit_ui.png)
+
+FastAPI Swagger  
+![API](Screenshots/fastapi_docs.png)
+
+Android App  
+![Android](Screenshots/android_app.png)
+
+
+
 ## Installation
 
 git clone https://github.com/nighithatn/TalentLens-AI.git  
