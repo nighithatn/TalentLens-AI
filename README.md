@@ -2,6 +2,8 @@
 
 AI-powered Resume Screening & Talent Match System using GenAI + RAG + NLP
 
+
+
 ## Overview
 
 TalentLens AI is an intelligent recruitment system that automates resume screening by comparing resumes with job descriptions using semantic similarity, ATS scoring, and AI-based evaluation. This project demonstrates a real-world application of AI in hiring systems.
@@ -95,4 +97,4 @@ Nighitha T N
 
 TalentLens AI demonstrates how AI, RAG, and GenAI can transform traditional recruitment into an intelligent and automated system.
 
-If you found this project useful, consider giving it a star.
+⭐ Star this repo if you like it!
